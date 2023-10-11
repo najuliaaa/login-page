@@ -26,4 +26,4 @@ Sinta-se à vontade para clonar este repositório e personalizá-lo conforme sua
 
 ### Pré-visualização
 
-![Preview](https://github.com/najuliaaa/login-form/blob/df7f1199ee0bc88dec2fe6195fd98434fd3dcdf8/Captura%20de%20tela%202023-10-11%20201346.png)
+![Preview](https://github.com/najuliaaa/login-page/blob/e54b550690823c5c48341d450450f8e7246c97a5/Captura%20de%20tela%202023-10-11%20201346.png)
